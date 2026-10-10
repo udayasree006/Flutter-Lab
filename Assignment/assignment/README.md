@@ -219,45 +219,13 @@ Layout           Layout
 
 ---
 
-## 📸 Screenshots
+## Climate Alert – Screenshots
 
 ### Portrait Mode
-
-Add your portrait screenshot here:
-
-```text
-screenshots/portrait.png
-```
-
-Example Markdown:
-
-```markdown
-![Portrait Mode](screenshots/portrait.png)
-```
+![Climate Alert Portrait Mode](portrait.png.png)
 
 ### Landscape Mode
-
-Add your landscape screenshot here:
-
-```text
-screenshots/landscape.png
-```
-
-Example Markdown:
-
-```markdown
-![Landscape Mode](screenshots/landscape.png)
-```
-
-### City Search
-
-Add a screenshot showing a different city being searched:
-
-```markdown
-![City Search](screenshots/city-search.png)
-```
-
----
+![Climate Alert Landscape Mode](landscape.png.png)
 
 ## ▶️ Running the Project
 
